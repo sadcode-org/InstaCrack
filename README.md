@@ -3,8 +3,10 @@
 <br>
 
 
-<img url:https://raw.githubusercontent.com/sadcode-org/InstaCrack/master/Ig.png>
-<br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/sadcode-org/InstaCrack/master/Ig.png">
+</a>
+</p>
 
 <br>
 
